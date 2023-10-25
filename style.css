@@ -80,20 +80,10 @@ body {
     }
 
     #preImg {
-        position: absolute;
-        font-size: 30px;
-        color: #fff;
-        top: 50%;
         right: 92%;
-        cursor: pointer;
     }
     
     #nextImg {
-        position: absolute;
-        font-size: 30px;
-        color: #fff;
-        top: 50%;
         left: 92%;
-        cursor: pointer;
     }
 }
